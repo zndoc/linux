@@ -19,6 +19,7 @@
 * [PHPStorm](./install/phpStorm.md)
 * [PyCharm](./install/pyCharm.md)
 * [Postman](./install/postman.md)
+* [PyQt](./install/pyQt.md)
 
 ## Шпаргалки
 
