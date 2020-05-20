@@ -20,11 +20,16 @@
 * [PyCharm](./install/pyCharm.md)
 * [Postman](./install/postman.md)
 * [PyQt](./install/pyQt.md)
+* [GitKracken](./install/gitKracken.md)
+
+## Рецепты
+
+* [Генерация SSH-ключа для GIT](recipe/gitSsh.md)
+* [Исправление sequence в Postgres](recipe/fixSequence.md)
+* [Исправление локали](recipe/fixLocale.md)
 
 ## Шпаргалки
 
-* [Генерация SSH-ключа для GIT](./cheatSheet/gitSsh.md)
-* [Исправление sequence в Postgres](./cheatSheet/fixSequence.md)
 * [Команды GIT](./cheatSheet/git.md)
 * [Команды Apache](./cheatSheet/apache.md)
 * [Команды Composer](./cheatSheet/composer.md)
