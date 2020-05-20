@@ -23,6 +23,7 @@
 
 ## Шпаргалки
 
+* [Генерация SSH-ключа для GIT](./cheatSheet/gitSsh.md)
 * [Команды GIT](./cheatSheet/git.md)
 * [Команды Apache](./cheatSheet/apache.md)
 * [Команды Composer](./cheatSheet/composer.md)

@@ -12,10 +12,7 @@
 
     sudo a2enmod rewrite
 
-открыть файл:
-/etc/apache2/apache2.conf
-
-Добавить код:
+открыть файл `/etc/apache2/apache2.conf` и добавить код:
 
     <Directory /var/www>
         Options Indexes FollowSymLinks MultiViews
@@ -24,9 +21,9 @@
         allow from all
     </Directory>
 
-Перезапускаем сервер:
+перезапустить сервер:
 
-    sudo systemctl start apache2
+    sudo systemctl restart apache2
 
 ## Автозагрузка
 

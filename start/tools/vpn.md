@@ -2,8 +2,8 @@
 
 ## Установка
 
-    apt-get install openvpn easy-rsa
+    sudo apt-get install openvpn easy-rsa
 
 ## Запуск
 
-sudo openvpn --config "/home/user/.private/company.ovpn"
+    sudo openvpn --config "/home/user/.private/company.ovpn"

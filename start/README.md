@@ -1,25 +1,24 @@
 # Начальная настройка
 
-* [Введение](./intro.md)
-
 ## Инструменты
 
 * [Open VPN (VPN-клиент)](./tools/vpn.md)
 * [Muon (пакетный менеджер)](./tools/muon.md)
 * [Snap (пакетный менеджер)](./tools/snap.md)
-* [Timeshift (бэкап/восстановление системы)](./tools/.md)
-* [Virtualbox](./tools/.md)
-* [GTK Hash (контрольная сумма файла)](./tools/.md)
-* [Double Commander (аналог total commander)](./tools/.md)
-* [httrack (граббер сайтов)](./tools/.md)
-* [touchpad-indicator (отключение тачпада)](./tools/.md)
-* [7zip (архиватор)](./tools/.md)
-* [Ark (архиватор)](./tools/.md)
+* [Timeshift (бэкап/восстановление системы)](./tools/timeShift.md)
+* [Virtualbox](./tools/virtualBox.md)
+* [GTK Hash (контрольная сумма файла)](./tools/gtkHash.md)
+* [Double Commander (аналог total commander)](./tools/doubleCommander.md)
+* [httrack (граббер сайтов)](./tools/httrack.md)
+* [touchpad-indicator (отключение тачпада)](./tools/touchpadIndicator.md)
+* [7zip (архиватор)](./tools/7zip.md)
+* [Ark (архиватор)](./tools/ark.md)
 
 ## Руководство
 
-* [Полномочия](./tools/.md)
-* [Работа с файлами и директориями](./tools/.md)
-* [Работа с архивами](./tools/.md)
-* [Блокировка рекламы в браузерах](./tools/.md)
-* [Автоматизация задач](./tools/.md)
+* [Полномочия](./guide/permission.md)
+* [Установка и удаление приложений](./guide/application.md)
+* [Работа с файлами и директориями](./guide/fs.md)
+* [Работа с архивами](./guide/archive.md)
+* [Блокировка рекламы в браузерах](./guide/adBlock.md)
+* [Автоматизация задач](./guide/autoTask.md)
