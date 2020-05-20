@@ -24,6 +24,7 @@
 ## Шпаргалки
 
 * [Генерация SSH-ключа для GIT](./cheatSheet/gitSsh.md)
+* [Исправление sequence в Postgres](./cheatSheet/fixSequence.md)
 * [Команды GIT](./cheatSheet/git.md)
 * [Команды Apache](./cheatSheet/apache.md)
 * [Команды Composer](./cheatSheet/composer.md)

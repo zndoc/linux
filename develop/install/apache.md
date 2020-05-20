@@ -36,4 +36,5 @@
 ## Включение SSL
 
     sudo a2enmod ssl
-    sudo systemctl start apache2
+    sudo a2ensite default-ssl
+    sudo systemctl restart apache2
