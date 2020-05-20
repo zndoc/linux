@@ -24,6 +24,10 @@
         allow from all
     </Directory>
 
+Перезапускаем сервер:
+
+    sudo systemctl start apache2
+
 ## Автозагрузка
 
     sudo systemctl enable apache2
@@ -35,3 +39,4 @@
 ## Включение SSL
 
     sudo a2enmod ssl
+    sudo systemctl start apache2

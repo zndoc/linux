@@ -1,12 +1,19 @@
-# Разраотка
+# Разработка
 
-* [Apache](./apache.md)
-* [PHP](./php.md)
-* [Postgres SQL](./postgres.md)
-* [MySQL](./mysql.md)
-* [Mongo DB](./mongo.md)
-* [Redis](./redis.md)
-* [Python](./python.md)
-* [GIT](./git.md)
-* [Composer](./composer.md)
-* [VPN](./vpn.md)
+## Установка и настройка инструментов
+
+* [Apache](./install/apache.md)
+* [PHP](./install/php.md)
+* [Postgres SQL](./install/postgres.md)
+* [MySQL](./install/mysql.md)
+* [Mongo DB](./install/mongo.md)
+* [Redis](./install/redis.md)
+* [Python](./install/python.md)
+* [GIT](./install/git.md)
+* [Composer](./install/composer.md)
+
+## Шпаргалки
+
+* [Команды GIT](./cheatSheet/git.md)
+* [Команды Apache](./cheatSheet/apache.md)
+* [Команды Composer](./cheatSheet/composer.md)
