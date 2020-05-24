@@ -6,6 +6,7 @@
 
 * [Apache](./install/apache.md)
 * [PHP](./install/php.md)
+* [SQLite](./install/sqlite.md)
 * [Postgres SQL](./install/postgres.md)
 * [MySQL](./install/mysql.md)
 * [Mongo DB](./install/mongo.md)

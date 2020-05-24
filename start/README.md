@@ -1,5 +1,11 @@
 # Начальная настройка
 
+## Введение
+
+* [Введение](start/intro/intro.md)
+* [Краткий обзор дистрибутивов Linux](./intro/linuxDist.md)
+* [Аналоги Windows программ в Linux](./intro/analogFromWindows.md)
+
 ## Инструменты
 
 * [Open VPN (VPN-клиент)](./tools/vpn.md)
