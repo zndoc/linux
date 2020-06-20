@@ -28,3 +28,4 @@
 * [Работа с архивами](./guide/archive.md)
 * [Блокировка рекламы в браузерах](./guide/adBlock.md)
 * [Автоматизация задач](./guide/autoTask.md)
+* [Отключить Bluetooth](./guide/disable-bluetooth.md)
