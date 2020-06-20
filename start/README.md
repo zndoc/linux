@@ -6,8 +6,9 @@
 * [Краткий обзор дистрибутивов Linux](./intro/linuxDist.md)
 * [Аналоги Windows программ в Linux](./intro/analogFromWindows.md)
 
-## Инструменты
+## Приложения
 
+* [Telegram](./tools/telegram.md)
 * [Open VPN (VPN-клиент)](./tools/vpn.md)
 * [Snap (пакетный менеджер)](./tools/snap.md)
 * [Timeshift (бэкап/восстановление системы)](./tools/timeShift.md)
