@@ -2,11 +2,11 @@
 
 Генерация ключа
 
-    ssh-keygen -t rsa -b 2048 -C "theyamshikov@yandex.ru"
+    ssh-keygen -t rsa -b 2048 -C "my@example.com"
 
 Вводим путь к ключу:
 
-    /home/vitaliy/.ssh/my-gitlab
+    ~/.ssh/my-gitlab
 
 Открыть публичный ключ
 
