@@ -2,5 +2,8 @@
 
 ## Установка
 
-    cp /var/www/tool/bin/composer /usr/local/bin/composer
-    sudo chmod +x /usr/local/bin/composer
+    sudo apt install composer
+
+или
+
+    curl -sS https://getcomposer.org/download/1.10.7/composer.phar -o composer
