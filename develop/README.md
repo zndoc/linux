@@ -12,6 +12,7 @@
 * [Mongo DB](./install/mongo.md)
 * [Redis](./install/redis.md)
 * [Python](./install/python.md)
+* [Curl](./install/curl.md)
 
 ### Перифирия
 
