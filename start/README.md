@@ -9,7 +9,6 @@
 ## Инструменты
 
 * [Open VPN (VPN-клиент)](./tools/vpn.md)
-* [Muon (пакетный менеджер)](./tools/muon.md)
 * [Snap (пакетный менеджер)](./tools/snap.md)
 * [Timeshift (бэкап/восстановление системы)](./tools/timeShift.md)
 * [Virtualbox](./tools/virtualBox.md)
