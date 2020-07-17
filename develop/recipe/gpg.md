@@ -15,3 +15,7 @@
 Расшифровать файл
 
   gpg --output ~/xxx/xxx.txt --decrypt ~/xxx/xxx.gpg
+
+Зашифровать файл
+
+  gpg --encrypt --recipient xxx@mail.com ~/xxx/xxx.txt
