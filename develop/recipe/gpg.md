@@ -11,3 +11,7 @@
 Посмотреть публичный ключ
 
   gpg --armor --export 545166771694DE62
+
+Расшифровать файл
+
+  gpg --output ~/xxx/xxx.txt --decrypt ~/xxx/xxx.gpg
