@@ -10,6 +10,7 @@
 
 * [Telegram](./tools/telegram.md)
 * [Open VPN (VPN-клиент)](./tools/vpn.md)
+* [Tor](tor.md)
 * [Snap (пакетный менеджер)](./tools/snap.md)
 * [Timeshift (бэкап/восстановление системы)](./tools/timeShift.md)
 * [Virtualbox](./tools/virtualBox.md)
