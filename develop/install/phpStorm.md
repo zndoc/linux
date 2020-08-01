@@ -4,7 +4,7 @@
 
     sudo snap install phpstorm --channel=2019.3/stable --classic
 
-## Установка
+## Установка из официального источника
 
     wget https://download.jetbrains.com/webide/PhpStorm-2019.3.4.tar.gz
 
