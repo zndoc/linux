@@ -21,6 +21,7 @@
 * [7zip (архиватор)](./tools/7zip.md)
 * [Ark (архиватор)](./tools/ark.md)
 * [Libre Office](./tools/libreOfiice.md)
+* [GPG](./tools/gpg.md)
 
 ## Руководство
 
