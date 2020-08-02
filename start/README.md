@@ -21,7 +21,6 @@
 * [7zip (архиватор)](./tools/7zip.md)
 * [Ark (архиватор)](./tools/ark.md)
 * [Libre Office](./tools/libreOfiice.md)
-* [GPG](./tools/gpg.md)
 
 ## Руководство
 
@@ -31,3 +30,4 @@
 * [Работа с архивами](./guide/archive.md)
 * [Блокировка рекламы в браузерах](./guide/adBlock.md)
 * [Автоматизация задач](./guide/autoTask.md)
+* [GPG](./tools/gpg.md)
