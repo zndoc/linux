@@ -16,7 +16,7 @@
 
 ## Настрока
 
-В фале `/etc/php/7.2/apache2/php.ini` меняем:
+В файле `/etc/php/7.2/apache2/php.ini` меняем:
 
     short_open_tag=On
 
