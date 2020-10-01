@@ -23,6 +23,7 @@
 * [Postman](./install/postman.md)
 * [PyQt](./install/pyQt.md)
 * [GitKracken](./install/gitKracken.md)
+* [NPM](./install/npm.md)
 * [RAML2HTML](./install/raml2html.md)
 
 ## Рецепты
