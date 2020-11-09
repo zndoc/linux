@@ -19,7 +19,6 @@
 * [httrack (граббер сайтов)](./tools/httrack.md)
 * [touchpad-indicator (отключение тачпада)](./tools/touchpadIndicator.md)
 * [7zip (архиватор)](./tools/7zip.md)
-* [Ark (архиватор)](./tools/ark.md)
 * [Libre Office](./tools/libreOfiice.md)
 
 ## Руководство
