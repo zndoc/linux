@@ -2,4 +2,8 @@
 
 ## Установка
 
-  sudo apt install curl
+    sudo apt install curl
+
+или через snap:
+
+    sudo apt install curl
