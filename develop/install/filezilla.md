@@ -1,3 +1,3 @@
 # FileZilla
 
-  sudo apt install filezilla
+    sudo apt install filezilla
