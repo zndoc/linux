@@ -25,7 +25,7 @@
 * [GitKracken](./install/gitKracken.md)
 * [NPM](./install/npm.md)
 * [RAML2HTML](./install/raml2html.md)
-* [FileZilla]()
+* [FileZilla](./install/filezilla.md)
 
 ## Рецепты
 
