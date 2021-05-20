@@ -25,3 +25,7 @@
 ### Поиск и установка определенных расширений PHP 7.2
 
     sudo apt search php7.2
+
+### Установить путь исполняемого файла для консольных команд
+
+    sudo update-alternatives --set php /usr/bin/php7.2
