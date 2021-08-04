@@ -9,6 +9,7 @@
 ## Приложения
 
 * [Telegram](./tools/telegram.md)
+* [Google Chrome](./tools/googleChrome.md)
 * [Open VPN (VPN-клиент)](./tools/vpn.md)
 * [Tor](./tools/tor.md)
 * [Snap (пакетный менеджер)](./tools/snap.md)
