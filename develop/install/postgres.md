@@ -14,7 +14,7 @@
     \password postgres
     \q
 
-Редактируем конфиг `/etc/postgresql/12/main/pg_hba.conf`:
+Редактируем конфиг `/etc/postgresql/12/main/pg_hba.conf` меняем `peer` на `md5`:
 
     local   all             all                                     peer
 
@@ -28,5 +28,5 @@ to:
 
 ## Ссылки
 
-https://losst.ru/ustanovka-postgresql-ubuntu-16-04
-https://stackoverflow.com/questions/12720967/how-to-change-postgresql-user-password
+* https://losst.ru/ustanovka-postgresql-ubuntu-16-04
+* https://stackoverflow.com/questions/12720967/how-to-change-postgresql-user-password
