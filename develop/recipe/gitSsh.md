@@ -20,6 +20,10 @@
     Host gitlab.com
      IdentityFile /home/vitaliy/.ssh/my-gitlab
 
+Запустить агент:
+
+    eval $(ssh-agent)
+
 Добавить ключ
 
     ssh-add ~/.ssh/my-gitlab
