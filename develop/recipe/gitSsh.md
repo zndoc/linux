@@ -20,6 +20,10 @@
     Host gitlab.com
      IdentityFile /home/vitaliy/.ssh/my-gitlab
 
+Добавить ключ
+
+    ssh-add ~/.ssh/my-gitlab
+
 ## Разное
 
 Список ключей
