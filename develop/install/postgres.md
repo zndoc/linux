@@ -14,7 +14,7 @@
     \password postgres
     \q
 
-Редактируем конфиг `/etc/postgresql/12/main/pg_hba.conf` меняем `peer` на `md5`:
+Редактируем конфиг `/etc/postgresql/14/main/pg_hba.conf` меняем `peer` на `md5`:
 
     local   all             all                                     peer
 
