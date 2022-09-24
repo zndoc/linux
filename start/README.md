@@ -1,13 +1,5 @@
 # Начальная настройка
 
-<div style="display: none">
-## Введение
-
-* [Введение](start/intro/intro.md)
-* [Краткий обзор дистрибутивов Linux](./intro/linuxDist.md)
-* [Аналоги Windows программ в Linux](./intro/analogFromWindows.md)
-</div>
-  
 ## Приложения
 
 * [Telegram](./tools/telegram.md)
